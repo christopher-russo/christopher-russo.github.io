@@ -24,3 +24,19 @@ scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px
 **Treasury yields and mortgage rate**
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vr59&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
+**Composition of the SOMA portfolio**
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vr89&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
+**Composition of SOMA Treasury holdings**
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vr9q&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
+**Composition of Fed crisis facilities**
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vre9&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
+**Composition of Fed Liabilities**
+
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vrfC&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
