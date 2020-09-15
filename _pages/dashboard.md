@@ -4,7 +4,7 @@ title: Dashboard
 permalink: /dashboard/
 ---
 
-- [Summary of Economic Projections (SEP) Dashboard](/dashboard/sep)
+- [Summary of Economic Projections (SEP) Dashboard](/dashboard/sep) [[Explainer](../sep-dashboard-launch/)]
 
 ___
 
