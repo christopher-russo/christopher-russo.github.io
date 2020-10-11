@@ -4,7 +4,10 @@ title: Dashboard
 permalink: /dashboard/
 ---
 
+Dashboards updated daily at noon, Eastern Time.
+
 - [Summary of Economic Projections (SEP) Dashboard](/dashboard/sep) [[Explainer](../sep-dashboard-launch/)]
+- [Inflation Targeting Dashboard](/dashboard/inflation-targeting) [[Explainer](../inflation-targeting-dashboard-launch/)]
 
 ___
 
