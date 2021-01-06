@@ -8,6 +8,7 @@ Updated daily at noon (Eastern Time)
 
 - [Summary of Economic Projections (SEP) Dashboard](/dashboard/sep) [[Explainer](../sep-dashboard-launch/)]
 - [Inflation Targeting Dashboard](/dashboard/inflation-targeting) [[Explainer](../inflation-targeting-dashboard-launch/)]
+- [CPI Inflation Expectations Dashboard](/dashboard/cpi-inflation-expectations) [[Explainer](../cpi-inflation-expectations-dashboard-launch)]
 
 ___
 
@@ -15,11 +16,6 @@ ___
 **Real GDP growth**
 
 <iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vr0B&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-
-**PCE inflation vs. the Fed's 2% target**
-
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vqRQ&width=670&height=475" 
-scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 
 **Employment and labor-force-participation rates**
 
