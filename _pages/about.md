@@ -16,4 +16,12 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 ### Publications
 
-"Recent Declines in the Fed's Longer-Run Economic Projections" (2017) with Jonas D. M. Fisher, *Chicago Fed Letter*, No. 375. [Source](https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf), [Archive](http://web.archive.org/web/20201220130401/https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf)
+**Federal Reserve Bank of Chicago**
+
+- "Recent Declines in the Fed's Longer-Run Economic Projections" (2017) with Jonas D. M. Fisher, *Chicago Fed Letter*, No. 375. [Source](https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf), [Archive](http://web.archive.org/web/20201220130401/https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf)
+
+### Quotes
+
+**The Mercatus Center**
+
+- "Good Ideas that Might Find Favor In a New Era" (2021) edited by Grayson Quay, *Discourse Magazine*. [Source](https://www.discoursemagazine.com/politics/2021/01/21/good-ideas-that-might-find-favor-in-a-new-era/), [Archive](http://web.archive.org/web/20210121183357/https://www.discoursemagazine.com/politics/2021/01/21/good-ideas-that-might-find-favor-in-a-new-era/), [Notes](https://christopher-russo.github.io/two-ideas-for-the-biden-administration/) 
