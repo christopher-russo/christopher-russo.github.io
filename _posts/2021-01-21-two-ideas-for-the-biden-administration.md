@@ -5,7 +5,7 @@ title: The Biden administration should renew the debt limit and lock in governme
 
 categories: [Fiscal Policy, Quoted]
 
-excerpt: Two of my recommendations for the Biden administration were quoted by *Discourse Magazine*. In this post, I discuss some details left on the cutting room floor. Topics include the history of the debt limit, the mechanics of debt limit suspension and reinstatement, Treasury's cash and debt management practices, as well as sources for data and projections.
+excerpt: Two of my recommendations for the Biden administration were quoted by Discourse Magazine. In this post, I discuss some details left on the cutting room floor. Topics include the history of the debt limit, the mechanics of debt limit suspension and reinstatement, Treasury's cash and debt management practices, as well as sources for data and projections.
 
 ---
 
