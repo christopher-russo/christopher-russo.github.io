@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Christopher M. Russo is a Post-Graduate Research Fellow of the Mercatus Center at George Mason University. His research focuses on monetary policy and financial regulation.
+Christopher M. Russo is a Post-Graduate Research Fellow of the Mercatus Center at George Mason University. His research focuses on monetary policy and sovereign debt management, particularly in the United States. He is an expert on monetary policy implementation and financial market functioning. 
 
 [//]: # (He is also a doctoral student pursuing his J.D. from the Antonin Scalia School of Law [and/or Ph.D. from the Department of Economics].)
 
-Prior to joining Mercatus, Mr. Russo spent his career advising top policymakers in the Federal Reserve System on monetary policy and sovereign debt management. While on the Open Market Trading Desk of the New York Fed, he built the financial and statistical models used to manage the Fed's balance sheet. Before this, he was an Associate Economist in Macroeconomic Research at the Chicago Fed.
+Prior to joining Mercatus, Mr. Russo spent his career advising top policymakers in the Federal Reserve System on these issues. While on the Open Market Trading Desk of the New York Fed, he built the financial and statistical models used to manage the Fed's balance sheet. He also led the Desk's forecasts during the 2019 debt limit episode. Before this, he was an Associate Economist in Macroeconomic Research at the Chicago Fed.
 
 Russo holds a master's degree in Financial Mathematics from the University of Chicago and plans to complete his doctorate at Mason. He completed his undergraduate work in Mathematics and Economics at Rutgers University, New Brunswick.
 
