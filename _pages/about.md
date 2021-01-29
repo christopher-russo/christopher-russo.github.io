@@ -16,6 +16,10 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 ### Publications
 
+**The Mercatus Center**
+
+- "The GameStop Short Squeeze" (2021), *Discourse Magazine*. [Source](https://www.discoursemagazine.com/economics/2021/01/29/the-gamestop-short-squeeze/), [Archive](http://web.archive.org/web/20210129232817/https://www.discoursemagazine.com/economics/2021/01/29/the-gamestop-short-squeeze/)
+
 **Federal Reserve Bank of Chicago**
 
 - "Recent Declines in the Fed's Longer-Run Economic Projections" (2017) with Jonas D. M. Fisher, *Chicago Fed Letter*, No. 375. [Source](https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf), [Archive](http://web.archive.org/web/20201220130401/https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf)
