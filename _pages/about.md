@@ -16,6 +16,10 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 ### Publications
 
+**Federal Reserve Bank of Chicago**
+
+- "Recent Declines in the Fed's Longer-Run Economic Projections" (2017) with Jonas D. M. Fisher, *Chicago Fed Letter*, No. 375. [Source](https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf), [Archive](http://web.archive.org/web/20201220130401/https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf)
+
 **Mercatus Center**
 
 - "The GameStop Short Squeeze" (2021), *Discourse Magazine*. [Source](https://www.discoursemagazine.com/economics/2021/01/29/the-gamestop-short-squeeze/), [Archive](http://web.archive.org/web/20210129232817/https://www.discoursemagazine.com/economics/2021/01/29/the-gamestop-short-squeeze/)
@@ -24,9 +28,9 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 - "Is the Federal Reserve Taking Too Much Risk?" (2021), *Capital Matters*. [Source](https://www.nationalreview.com/2021/02/is-the-federal-reserve-taking-too-much-risk/), [Archive](http://web.archive.org/web/20210204185520/https://www.nationalreview.com/2021/02/is-the-federal-reserve-taking-too-much-risk/) 
 
-**Federal Reserve Bank of Chicago**
+**The Washington Times**
 
-- "Recent Declines in the Fed's Longer-Run Economic Projections" (2017) with Jonas D. M. Fisher, *Chicago Fed Letter*, No. 375. [Source](https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf), [Archive](http://web.archive.org/web/20201220130401/https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2017/cfl375-pdf.pdf)
+- "Congress and SEC: Let the People Trade by making Financial Markets Freer and Fairer" (2021), *Opinion*. [Source](https://www.washingtontimes.com/news/2021/feb/4/congress-and-sec-let-the-people-trade-by-making-fi/), [Archive](http://web.archive.org/web/20210204205144/https://www.washingtontimes.com/news/2021/feb/4/congress-and-sec-let-the-people-trade-by-making-fi/)
 
 ### Quotes
 
