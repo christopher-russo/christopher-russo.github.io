@@ -16,9 +16,13 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 ### Publications
 
-**The Mercatus Center**
+**Mercatus Center**
 
 - "The GameStop Short Squeeze" (2021), *Discourse Magazine*. [Source](https://www.discoursemagazine.com/economics/2021/01/29/the-gamestop-short-squeeze/), [Archive](http://web.archive.org/web/20210129232817/https://www.discoursemagazine.com/economics/2021/01/29/the-gamestop-short-squeeze/)
+
+**National Review**
+
+- "Is the Federal Reserve Taking Too Much Risk?" (2021), *Capital Matters*. [Source](https://www.nationalreview.com/2021/02/is-the-federal-reserve-taking-too-much-risk/), [Archive](http://web.archive.org/web/20210204185520/https://www.nationalreview.com/2021/02/is-the-federal-reserve-taking-too-much-risk/) 
 
 **Federal Reserve Bank of Chicago**
 
@@ -26,6 +30,6 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 ### Quotes
 
-**The Mercatus Center**
+**Mercatus Center**
 
 - "Good Ideas that Might Find Favor In a New Era" (2021) edited by Grayson Quay, *Discourse Magazine*. [Source](https://www.discoursemagazine.com/politics/2021/01/21/good-ideas-that-might-find-favor-in-a-new-era/), [Archive](http://web.archive.org/web/20210121183357/https://www.discoursemagazine.com/politics/2021/01/21/good-ideas-that-might-find-favor-in-a-new-era/), [Notes](https://christopher-russo.github.io/two-ideas-for-the-biden-administration/) 
