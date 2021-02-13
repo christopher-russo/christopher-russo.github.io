@@ -32,8 +32,10 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 - "Congress and SEC: Let the People Trade by making Financial Markets Freer and Fairer" (2021), *Opinion*. [Source](https://www.washingtontimes.com/news/2021/feb/4/congress-and-sec-let-the-people-trade-by-making-fi/), [Archive](http://web.archive.org/web/20210204205144/https://www.washingtontimes.com/news/2021/feb/4/congress-and-sec-let-the-people-trade-by-making-fi/)
 
-### Quotes
+### Appearances & Quotes
 
 **Mercatus Center**
+
+- "The GameStop Affair" (2021) hosted by Brian Knight, *Discourse Magazine Podcast*. [Source](https://www.discoursemagazine.com/economics/2021/02/12/gamestop-robinhood-and-the-sec/), [Archive](https://web.archive.org/web/20210213135415/https://www.discoursemagazine.com/economics/2021/02/12/gamestop-robinhood-and-the-sec/)
 
 - "Good Ideas that Might Find Favor In a New Era" (2021) edited by Grayson Quay, *Discourse Magazine*. [Source](https://www.discoursemagazine.com/politics/2021/01/21/good-ideas-that-might-find-favor-in-a-new-era/), [Archive](http://web.archive.org/web/20210121183357/https://www.discoursemagazine.com/politics/2021/01/21/good-ideas-that-might-find-favor-in-a-new-era/), [Notes](https://christopher-russo.github.io/two-ideas-for-the-biden-administration/) 
