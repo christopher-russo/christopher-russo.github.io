@@ -34,6 +34,10 @@ Russo holds a master's degree in Financial Mathematics from the University of Ch
 
 ### Appearances & Quotes
 
+**Al Jazeera**
+
+- "US lawmakers to grill key figures in GameStop stock probe" (2021) by Ben Piven, *Economy*. [Source](https://www.aljazeera.com/economy/2021/2/18/us-house-committee-to-grill-key-figures-in-gamestop-stock-probe), [Archive](http://web.archive.org/web/20210218173620/https://www.aljazeera.com/economy/2021/2/18/us-house-committee-to-grill-key-figures-in-gamestop-stock-probe)
+
 **Mercatus Center**
 
 - "The GameStop Affair" (2021) hosted by Brian Knight, *Discourse Magazine Podcast*. [Source](https://www.discoursemagazine.com/economics/2021/02/12/gamestop-robinhood-and-the-sec/), [Archive](https://web.archive.org/web/20210213135415/https://www.discoursemagazine.com/economics/2021/02/12/gamestop-robinhood-and-the-sec/)
