@@ -10,13 +10,15 @@ Prior to joining Mercatus, Mr. Russo spent his career advising top policymakers 
 
 Russo's views have been published by *National Review*, *The Hill*, *Barron's*, *Morning Consult*, and other news outlets. He is a regular contributor to [*Discourse Magazine*](https://www.discoursemagazine.com). 
 
-Russo holds a master's degree in Financial Mathematics from the University of Chicago. He completed his undergraduate work in Mathematics and Economics at Rutgers University, New Brunswick.
+Russo holds a master's degree in Financial Mathematics from the University of Chicago. He completed his undergraduate work in Mathematics and Economics at Rutgers University, New Brunswick. 
+
+[Curriculum Vitae](../images/CV.pdf)
 
 Available for [media appearances](mailto:media@mercatus.gmu.edu), [government briefings](mailto:mercatusoutreach@mercatus.gmu.edu), and [academic talks](mailto:crusso@mercatus.gmu.edu).
 
 ---
 
-**Get new articles and media in your inbox.**
+**Get new media in your inbox.**
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>

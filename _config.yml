@@ -29,7 +29,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: 
+  twitter: RussoEcon
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -45,8 +45,8 @@ google_analytics: UA-177383359-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.christopher-russo.github.io
-enforce_ssl: https://www.christopher-russo.github.io
+url: http://www.russoecon.com
+enforce_ssl: https://www.russoecon.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
