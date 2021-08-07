@@ -12,9 +12,9 @@ Russo's views have been published by *National Review*, *The Hill*, *Barron's*, 
 
 Russo holds a master's degree in Financial Mathematics from the University of Chicago. He completed his undergraduate work in Mathematics and Economics at Rutgers University, New Brunswick. 
 
-[Curriculum Vitae](../images/CV.pdf)
+**Resources:** [Curriculum Vitae](../CV.pdf), [Research Independence](https://www.mercatus.org/policy-regarding-independence-research), [Media Highlights](../media_highlights.pdf), [Headshot](../images/avatar.jpg)
 
-Available for [media appearances](mailto:media@mercatus.gmu.edu), [government briefings](mailto:mercatusoutreach@mercatus.gmu.edu), and [academic talks](mailto:crusso@mercatus.gmu.edu).
+**Interested?** Available for [media appearances](mailto:media@mercatus.gmu.edu), [government briefings](mailto:mercatusoutreach@mercatus.gmu.edu), and [academic talks](crusso@mercatus.gmu.edu).
 
 ---
 
