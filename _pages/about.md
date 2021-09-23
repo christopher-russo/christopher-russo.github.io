@@ -8,13 +8,13 @@ Christopher M. Russo is a Post-Graduate Research Fellow of the Mercatus Center a
 
 Prior to joining Mercatus, Mr. Russo spent his career advising top policymakers in the Federal Reserve System on these issues. He held roles on the Trading Desk of the New York Fed, and in Economic Research at the Chicago Fed.
 
-Russo's views have been published by *National Review*, *The Hill*, *Barron's*, *Morning Consult*, and other news outlets. He is a regular contributor to [*Discourse Magazine*](https://www.discoursemagazine.com). 
+Russo's views have been published by *National Review*, *The Hill*, *Barron's*, *Morning Consult*, and other media outlets. He has also testified before the United States Congress about his expert views. Additionally, he is a regular contributor to [*Discourse Magazine*](https://www.discoursemagazine.com). 
 
 Russo holds a master's degree in Financial Mathematics from the University of Chicago. He completed his undergraduate work in Mathematics and Economics at Rutgers University, New Brunswick. 
 
 **Resources:** [Curriculum Vitae](../CV.pdf), [Research Independence](https://www.mercatus.org/policy-regarding-independence-research), [Media Highlights](../media_highlights.pdf), [Headshot](../images/avatar.jpg)
 
-**Interested?** Available for [media appearances](mailto:media@mercatus.gmu.edu), [government briefings](mailto:mercatusoutreach@mercatus.gmu.edu), and [academic talks](crusso@mercatus.gmu.edu).
+**Interested?** Available for [media](mailto:media@mercatus.gmu.edu), [government briefings](mailto:mercatusoutreach@mercatus.gmu.edu), and [academic talks](crusso@mercatus.gmu.edu).
 
 ---
 
