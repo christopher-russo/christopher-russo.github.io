@@ -121,3 +121,8 @@ main > a:focus .main-icons {
     background-color: #04AA6D;
     color: white;
 }
+
+a {
+    color: #333;
+    text-decoration: none;
+}
